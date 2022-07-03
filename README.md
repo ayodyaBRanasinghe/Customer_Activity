@@ -1,7 +1,7 @@
 # ActivityManagement - ITP  :octocat:
 ###### [SLIIT](https://www.sliit.lk) - 2nd year 2nd semester project - 2022
 
-### Customer_Activity - [Tourism Management System](https://github.com/IT2080-ITP-2022-Feb/itp_project_group_b1-wd_b01_itp_g03)
+### Customer_Activity - [(Tourism Management System)](https://github.com/IT2080-ITP-2022-Feb/itp_project_group_b1-wd_b01_itp_g03)
 <br/>
 
 
