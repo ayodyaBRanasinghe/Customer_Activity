@@ -1,12 +1,10 @@
 # ActivityManagement - ITP  :octocat:
-###### 2nd year 2nd semester project - 2022
+###### [SLIIT](https://www.sliit.lk) - 2nd year 2nd semester project - 2022
 
 ### Customer_Activity
 <br/>
 
 
-[SLIIT](https://www.sliit.lk) - 2year 2sem - project
-<br/>
 <br/>
 
 Build with
